@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g3jos23o0qy2ax15?svg=true)](https://ci.appveyor.com/project/Andrey-36/task-2-4-gradle-pageobjects)
